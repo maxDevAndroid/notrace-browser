@@ -1,8 +1,3 @@
-Abaixo está uma **Política de Privacidade** pronta, profissional e adequada para um navegador focado em privacidade como o **NoTraceBrowser**.
-Você pode copiar e salvar como `PRIVACY_POLICY.md`.
-
----
-
 # Política de Privacidade — NoTraceBrowser
 
 **Última atualização:** 18 de abril de 2026
@@ -122,18 +117,5 @@ Mesmo em futuras versões, o princípio de **não rastrear** será mantido.
 
 Para dúvidas sobre esta política:
 
-**Email:** [notracebrowser@proton.me](mailto:notracebrowser@proton.me)
+**Email:** [notracebrowser@proton.me](mailto:faturamaenterprise@gmail.com)
 
----
-
-## Resumo em uma frase
-
-> Se não coletamos nada, não há nada para vazar.
-
----
-
-Se quiser, no próximo passo eu posso gerar também:
-
-* `TERMS_OF_SERVICE.md` (Termos de Uso)
-* Texto curto para Play Store
-* Texto curto para dentro do app (About / Privacy screen)
